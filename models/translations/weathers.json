@@ -1,0 +1,13 @@
+{
+   "weathers": {
+      "clear_sky":        "快晴",
+      "few_clouds":       "晴れ",
+      "scattered_clouds": "薄曇",
+      "broken_clouds":    "曇",
+      "shower_rain":      "小雨",
+      "rain":             "雨",
+      "thunderstorm":     "雷雨",
+      "snow":             "雪",
+      "mist":             "霧"
+   }
+}
